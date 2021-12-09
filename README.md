@@ -48,7 +48,16 @@ My name is Harsh, I am aTechnical analyst with 5+ years of experience in full st
 
 👇 &nbsp; You can fine me on 🤝
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harsh-parammal-0a831a50/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B4.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harsh-parammal-0a831a50/)
 [<img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://tmnrp-portfolio.vercel.app/)
 
 <hr>
+
+<style>
+.invert {
+  filter: invert(1);
+}
+.mongoose {
+  filter: brightness(0) invert(1);
+}
+</style>
