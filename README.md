@@ -1,6 +1,6 @@
 # Hi, I'm Harsh aka TMNRP <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://komarev.com/ghpvc/?username=tmnrp)
 
-My name is Harsh, I am a Technical analyst with 5+ years of experience in full stack development. I am persistent, quick learner and intereted in troubleshooting problems, identifying root cause and applying solution that is simple and scalable.
+My name is Harsh, I am a Technical analyst with 5+ years of experience in full stack development. I am persistent, quick learner and interested in troubleshooting problems, identifying root cause and applying solution that is simple and scalable.
 
 <hr>
 
@@ -46,7 +46,7 @@ My name is Harsh, I am a Technical analyst with 5+ years of experience in full s
 
 <hr>
 
-👇 &nbsp; You can fine me on 🤝
+👇 &nbsp; You can find me on 🤝
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B4.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harsh-parammal-0a831a50/)
 [<img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=codersrank&logoColor=white" />](https://tmnrp-portfolio.vercel.app/)
