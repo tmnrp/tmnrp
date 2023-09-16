@@ -16,7 +16,7 @@ My name is Harsh, I am a Technical analyst with 7+ years of experience in full s
 <a href="https://tmnrp-portfolio.vercel.app/resume">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmnrp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://tmnrp-portfolio.vercel.app/projects">
+<a href="https://tm-portfolio.vercel.app">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tmnrp&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Harsh's GitHub Stats" />
 </a>
 
