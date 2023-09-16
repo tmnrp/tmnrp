@@ -1,6 +1,7 @@
 # Hi, I'm Harsh aka TMNRP <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![](https://komarev.com/ghpvc/?username=tmnrp)
 
-My name is Harsh, I am a Technical analyst with 5+ years of experience in full stack development. I am persistent, quick learner and interested in troubleshooting problems, identifying root cause and applying solution that is simple and scalable.
+My name is Harsh, I am a Technical analyst with 7+ years of experience in full stack development. I am persistent, quick learner and interested in troubleshooting problems, identifying root cause and applying solution that is simple and scalable. Expertise in creating in-house reusable framework and delivering full stack Micro frontends/services applications which includes project planning, estimation, development, root cause analysis, troubleshooting, testing, production deployment and client demos.
+
 
 <hr>
 
